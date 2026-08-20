@@ -62,19 +62,35 @@ This profile is my public progress log. I use it to track what I am learning, wh
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Profile-CSE--AIML%20Student-2563EB?style=for-the-badge" alt="CSE-AIML student" />
-<img src="https://img.shields.io/badge/Focus-AI%20Bots%20%26%20Automation-22C55E?style=for-the-badge" alt="AI bots and automation focus" />
-<img src="https://img.shields.io/badge/Workflow-GitHub%20Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions workflow" />
-<img src="https://img.shields.io/badge/Snake-Auto%20Generated-38BDF8?style=for-the-badge" alt="Snake animation generated automatically" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHIL-GIT-ARC&theme=tokyonight&animation=load" alt="Akhil's GitHub profile summary" />
 
 </div>
 
-| Dashboard Item | Current Status |
-| --- | --- |
-| Profile README | Live on the special `AKHIL-GIT-ARC` profile repository |
-| Contribution Snake | Generated daily with GitHub Actions |
-| Learning Track | CSE-AIML, AI bots, automation, and practical projects |
-| Main Tools Shown | Python, Git, GitHub, GitHub Actions, VS Code, HTML, CSS, JavaScript |
+### Languages Used
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKHIL-GIT-ARC&theme=tokyonight&animation=load" alt="Akhil's repository languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKHIL-GIT-ARC&theme=tokyonight&animation=load" alt="Akhil's most committed languages" />
+
+</div>
+
+### Stats And Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKHIL-GIT-ARC&theme=tokyonight&animation=load" alt="Akhil's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKHIL-GIT-ARC&theme=tokyonight&utcOffset=5.5&animation=load" alt="Akhil's productive coding time" />
+
+</div>
+
+### Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AKHIL-GIT-ARC&theme=tokyonight&hide_border=true" alt="Akhil's GitHub streak" />
+
+</div>
 
 ## Contribution Graph
 
