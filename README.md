@@ -28,8 +28,6 @@ I am a CSE-AIML student from India, building my foundation in artificial intelli
 
 My current direction is simple: learn the fundamentals, build small but useful projects, and turn repeated manual work into clean automated workflows. I am especially interested in AI bots, GitHub automation, API integrations, and practical systems that are easy to explain and improve.
 
-This profile is my public progress log. I use it to track what I am learning, what I am building, and how my engineering habits improve over time.
-
 ## Current Focus
 
 | Area | What I am working on |
@@ -136,9 +134,6 @@ Improve it through practice.
 </a>
 
 <br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=AKHIL-GIT-ARC&style=for-the-badge&color=2563eb" alt="Profile views" />
 
 </div>
 
