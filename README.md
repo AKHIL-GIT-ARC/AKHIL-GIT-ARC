@@ -62,14 +62,19 @@ This profile is my public progress log. I use it to track what I am learning, wh
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AKHIL-GIT-ARC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Akhil's GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=AKHIL-GIT-ARC&theme=tokyonight&hide_border=true" alt="Akhil's GitHub streak" />
-
-<br />
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-GIT-ARC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Akhil's most used languages" />
+<img src="https://img.shields.io/badge/Profile-CSE--AIML%20Student-2563EB?style=for-the-badge" alt="CSE-AIML student" />
+<img src="https://img.shields.io/badge/Focus-AI%20Bots%20%26%20Automation-22C55E?style=for-the-badge" alt="AI bots and automation focus" />
+<img src="https://img.shields.io/badge/Workflow-GitHub%20Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions workflow" />
+<img src="https://img.shields.io/badge/Snake-Auto%20Generated-38BDF8?style=for-the-badge" alt="Snake animation generated automatically" />
 
 </div>
+
+| Dashboard Item | Current Status |
+| --- | --- |
+| Profile README | Live on the special `AKHIL-GIT-ARC` profile repository |
+| Contribution Snake | Generated daily with GitHub Actions |
+| Learning Track | CSE-AIML, AI bots, automation, and practical projects |
+| Main Tools Shown | Python, Git, GitHub, GitHub Actions, VS Code, HTML, CSS, JavaScript |
 
 ## Contribution Graph
 
