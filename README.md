@@ -28,6 +28,8 @@ I am a CSE-AIML student from India, building my foundation in artificial intelli
 
 My current direction is simple: learn the fundamentals, build small but useful projects, and turn repeated manual work into clean automated workflows. I am especially interested in AI bots, GitHub automation, API integrations, and practical systems that are easy to explain and improve.
 
+This profile is my public progress log. I use it to track what I am learning, what I am building, and how my engineering habits improve over time.
+
 ## Current Focus
 
 | Area | What I am working on |
@@ -62,7 +64,7 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's GitHub profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=164e63&text_color=1f2937&bg_color=dbe4ee&border_color=94a3b8&icon_color=0891b2&chart_color=2563eb" alt="Akhil's GitHub profile summary" />
 
 </div>
 
@@ -70,8 +72,8 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's repository languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's most committed languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=164e63&text_color=1f2937&bg_color=dbe4ee&border_color=94a3b8&icon_color=0891b2&chart_color=2563eb" alt="Akhil's repository languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=164e63&text_color=1f2937&bg_color=dbe4ee&border_color=94a3b8&icon_color=0891b2&chart_color=2563eb" alt="Akhil's most committed languages" />
 
 </div>
 
@@ -79,8 +81,8 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKHIL-GIT-ARC&theme=nord_bright&utcOffset=5.5&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's productive coding time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=164e63&text_color=1f2937&bg_color=dbe4ee&border_color=94a3b8&icon_color=0891b2&chart_color=2563eb" alt="Akhil's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKHIL-GIT-ARC&theme=nord_bright&utcOffset=5.5&animation=load&title_color=164e63&text_color=1f2937&bg_color=dbe4ee&border_color=94a3b8&icon_color=0891b2&chart_color=2563eb" alt="Akhil's productive coding time" />
 
 </div>
 
@@ -88,7 +90,7 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AKHIL-GIT-ARC&theme=default&hide_border=true&background=f8fafc&ring=0ea5a6&fire=2563eb&currStreakNum=0f4c5c&sideNums=0f4c5c&currStreakLabel=475569&sideLabels=475569&dates=64748b" alt="Akhil's GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=AKHIL-GIT-ARC&theme=default&hide_border=true&background=dbe4ee&ring=0891b2&fire=2563eb&currStreakNum=164e63&sideNums=164e63&currStreakLabel=475569&sideLabels=475569&dates=64748b" alt="Akhil's GitHub streak" />
 
 </div>
 
@@ -96,7 +98,7 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-GIT-ARC&bg_color=f8fafc&color=334155&line=0ea5a6&point=2563eb&area=true&area_color=bae6fd&title_color=0f4c5c&hide_border=true" alt="Akhil's GitHub contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-GIT-ARC&bg_color=dbe4ee&color=334155&line=0891b2&point=2563eb&area=true&area_color=bfdbfe&title_color=164e63&hide_border=true" alt="Akhil's GitHub contribution graph" />
 
 </div>
 
@@ -121,4 +123,31 @@ Explain it clearly.
 Improve it through practice.
 ```
 
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AKHIL-GIT-ARC">
+  <img src="https://img.shields.io/badge/GitHub-AKHIL--GIT--ARC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://www.linkedin.com/in/akhil-m-9458ba320/">
+  <img src="https://img.shields.io/badge/LinkedIn-Akhil%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="mailto:akhilroyalvla1212@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Akhil" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=AKHIL-GIT-ARC&style=for-the-badge&color=2563eb" alt="Profile views" />
+
+</div>
+
 ---
+
+<div align="center">
+
+<sub>Built around CSE-AIML, AI bots, automation, and steady public learning.</sub>
+
+</div>
