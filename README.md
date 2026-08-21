@@ -60,15 +60,6 @@ This profile is my public progress log. I use it to track what I am learning, wh
 
 </div>
 
-| Stack Area | Public Usage |
-| --- | --- |
-| Python | Python projects, library notes, ScoreCraft, CLI agent, audit tool, ATM system |
-| SQL | SQL-Essentials notes and hands-on database practice |
-| Java | Data Structures and Algorithms practice in `DSA-JAVA` |
-| C++ | DAA / algorithm coursework practice |
-| Web Basics | HTML, CSS, and JavaScript for profile and frontend fundamentals |
-| GitHub Workflow | Git, GitHub, profile README, and GitHub Actions automation |
-
 ## GitHub Dashboard
 
 <div align="center">
