@@ -140,14 +140,6 @@ Improve it through practice.
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=AKHIL-GIT-ARC&style=for-the-badge&color=2563eb" alt="Profile views" />
-
 </div>
 
 ---
-
-<div align="center">
-
-<sub>Built around CSE-AIML, AI bots, automation, and steady public learning.</sub>
-
-</div>
