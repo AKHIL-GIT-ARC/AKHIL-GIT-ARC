@@ -28,6 +28,8 @@ I am a CSE-AIML student from India, building my foundation in artificial intelli
 
 My current direction is simple: learn the fundamentals, build small but useful projects, and turn repeated manual work into clean automated workflows. I am especially interested in AI bots, GitHub automation, API integrations, and practical systems that are easy to explain and improve.
 
+This profile is my public progress log. I use it to track what I am learning, what I am building, and how my engineering habits improve over time.
+
 ## Current Focus
 
 | Area | What I am working on |
@@ -41,7 +43,7 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,githubactions,vscode,html,css,js&perline=8" alt="Technology icons: Python, Git, GitHub, GitHub Actions, VS Code, HTML, CSS, JavaScript" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,githubactions,vscode&perline=10" alt="Technology icons: Python, Java, C++, HTML, CSS, JavaScript, Git, GitHub, GitHub Actions, VS Code" />
 
 </div>
 
@@ -53,14 +55,25 @@ My current direction is simple: learn the fundamentals, build small but useful p
 <img src="https://img.shields.io/badge/Automation-Workflows-22C55E?style=for-the-badge" alt="Automation workflows" />
 <img src="https://img.shields.io/badge/API-Integrations-38BDF8?style=for-the-badge" alt="API integrations" />
 <img src="https://img.shields.io/badge/GitHub-Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/SQL-Practice-0EA5A6?style=for-the-badge" alt="SQL practice" />
+<img src="https://img.shields.io/badge/CLI-Tools-334155?style=for-the-badge" alt="CLI tools" />
 
 </div>
+
+| Stack Area | Public Usage |
+| --- | --- |
+| Python | Python projects, library notes, ScoreCraft, CLI agent, audit tool, ATM system |
+| SQL | SQL-Essentials notes and hands-on database practice |
+| Java | Data Structures and Algorithms practice in `DSA-JAVA` |
+| C++ | DAA / algorithm coursework practice |
+| Web Basics | HTML, CSS, and JavaScript for profile and frontend fundamentals |
+| GitHub Workflow | Git, GitHub, profile README, and GitHub Actions automation |
 
 ## GitHub Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHIL-GIT-ARC&theme=tokyonight&animation=load" alt="Akhil's GitHub profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's GitHub profile summary" />
 
 </div>
 
@@ -68,8 +81,8 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKHIL-GIT-ARC&theme=tokyonight&animation=load" alt="Akhil's repository languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKHIL-GIT-ARC&theme=tokyonight&animation=load" alt="Akhil's most committed languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's repository languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's most committed languages" />
 
 </div>
 
@@ -77,8 +90,8 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKHIL-GIT-ARC&theme=tokyonight&animation=load" alt="Akhil's GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKHIL-GIT-ARC&theme=tokyonight&utcOffset=5.5&animation=load" alt="Akhil's productive coding time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKHIL-GIT-ARC&theme=nord_bright&utcOffset=5.5&animation=load&title_color=0f4c5c&text_color=1f2937&bg_color=f8fafc&border_color=cbd5e1&icon_color=0ea5a6&chart_color=3b82f6" alt="Akhil's productive coding time" />
 
 </div>
 
@@ -86,7 +99,7 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AKHIL-GIT-ARC&theme=tokyonight&hide_border=true" alt="Akhil's GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=AKHIL-GIT-ARC&theme=default&hide_border=true&background=f8fafc&ring=0ea5a6&fire=2563eb&currStreakNum=0f4c5c&sideNums=0f4c5c&currStreakLabel=475569&sideLabels=475569&dates=64748b" alt="Akhil's GitHub streak" />
 
 </div>
 
@@ -94,7 +107,7 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-GIT-ARC&theme=tokyo-night&hide_border=true&area=true" alt="Akhil's GitHub contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-GIT-ARC&bg_color=f8fafc&color=334155&line=0ea5a6&point=2563eb&area=true&area_color=bae6fd&title_color=0f4c5c&hide_border=true" alt="Akhil's GitHub contribution graph" />
 
 </div>
 
@@ -134,6 +147,9 @@ Improve it through practice.
 </a>
 
 <br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=AKHIL-GIT-ARC&style=for-the-badge&color=2563eb" alt="Profile views" />
 
 </div>
 
