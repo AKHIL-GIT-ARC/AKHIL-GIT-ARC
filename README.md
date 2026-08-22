@@ -113,21 +113,4 @@ Explain it clearly.
 Improve it through practice.
 ```
 
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/AKHIL-GIT-ARC">
-  <img src="https://img.shields.io/badge/GitHub-AKHIL--GIT--ARC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/akhil-m-9458ba320/">
-  <img src="https://img.shields.io/badge/LinkedIn-Akhil%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
-<a href="mailto:akhilroyalvla1212@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Akhil" />
-</a>
-
-<br />
-
 </div>
----
