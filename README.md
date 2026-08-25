@@ -88,10 +88,11 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=164e63&text_color=1f2937&bg_color=dbe4ee&border_color=94a3b8&icon_color=0891b2&chart_color=2563eb"
-  alt="Akhil's GitHub contribution graph"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:default/AKHIL-GIT-ARC" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/light:2563eb/AKHIL-GIT-ARC" />
+  <img src="https://ghchart.xqsit94.in/dark:default/AKHIL-GIT-ARC" alt="Akhil's GitHub contribution calendar" />
+</picture>
 
 </div>
 
