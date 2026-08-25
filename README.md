@@ -89,7 +89,7 @@ My current direction is simple: learn the fundamentals, build small but useful p
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-GIT-ARC&bg_color=dbe4ee&color=164e63&title_color=164e63&line=0891b2&point=2563eb&area=true&area_color=bfdbfe&hide_border=true&radius=8&custom_title=Akhil's%20Contribution%20Graph"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHIL-GIT-ARC&theme=nord_bright&animation=load&title_color=164e63&text_color=1f2937&bg_color=dbe4ee&border_color=94a3b8&icon_color=0891b2&chart_color=2563eb"
   alt="Akhil's GitHub contribution graph"
 />
 
