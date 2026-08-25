@@ -88,7 +88,10 @@ My current direction is simple: learn the fundamentals, build small but useful p
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-GIT-ARC&bg_color=dbe4ee&color=334155&line=0891b2&point=2563eb&area=true&area_color=bfdbfe&title_color=164e63&hide_border=true" alt="Akhil's GitHub contribution graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-GIT-ARC&theme=github-compact"
+  alt="Akhil's GitHub contribution graph"
+/>
 
 </div>
 
